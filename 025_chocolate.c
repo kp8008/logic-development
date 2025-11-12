@@ -22,4 +22,4 @@ void main(){
 
     }
 printf(" Total chocolate : %d",tc);
-}
+}   
